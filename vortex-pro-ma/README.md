@@ -1,1 +1,1 @@
-
+Vortex Pro MA is an enhanced version of the classic Vortex Indicator (VI), designed to help visualize directional strength by comparing positive and negative trend movement. This version includes a smoothed “Vortex Pro” line, adjustable moving-average filtering, and dynamic zone coloring for improved readability.
